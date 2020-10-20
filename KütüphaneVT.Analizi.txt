@@ -1,14 +1,14 @@
 Kütüphane Veri Tabanı Analizi
 
 1)Hayata geçirilecek sistem neye hizmet edecek?
-Hayata geçilecek sistem kendi kütüphanemin  katolog veri tabanını sunacaktır.
+Hayata geçilecek sistem kendi kitaplığımda bulunan eserlerin  katolog veri tabanını sunacaktır.
 
 2)Veri tabanı hangi ihtiyaçları karşılayacak?
 *Veri tabanı kitapların künye bilgilerini sunacaktır.
 *Kitapların konularının ne olduğunun bilgisini sunacaktır.
-*Kitapların türlerinin ne olduğunun (roman,ders kitabı) bilgisini sunacaktır.
 *Kitapların kaç adet kopyasının olduğu bilgisini sunacaktır.
 *Kitapların yayınevi bilgisini sunacaktır.
+*Kitapların basım bilgisini sunacaktır.
 *Eserlerin yazar bilgisini sunacaktır.
 
 3)Veri tabanında hangi veriler depolanacak?
@@ -17,6 +17,7 @@ Hayata geçilecek sistem kendi kütüphanemin  katolog veri tabanını sunacakt�
 *Yazar bilgileri
 
 4)Veri tabanında ne tür veriler depolanacak?
+
 *Eser Bilgileri
 
 ***ISBN
@@ -27,7 +28,6 @@ Hayata geçilecek sistem kendi kütüphanemin  katolog veri tabanını sunacakt�
 ***Basım yılı
 ***Kaç adet kopyasının bulunduğu 
 ***Eserin  konusu
-***Eserin türü
 
 *Yazar Bilgileri
 
