@@ -19,9 +19,11 @@ Hayata geçilecek sistem kendi kütüphanemin  katolog veri tabanını sunacakt�
 4)Veri tabanında ne tür veriler depolanacak?
 *Eser Bilgileri
 
+***ISBN
 ***Eser adı
 ***Eserin yazarı
 ***Eserin sayfa  sayısı
+***Basım yeri
 ***Basım yılı
 ***Kaç adet kopyasının bulunduğu 
 ***Eserin  konusu
@@ -31,7 +33,6 @@ Hayata geçilecek sistem kendi kütüphanemin  katolog veri tabanını sunacakt�
 
 *** Yazar adı
 ***Yazar soyadı
-***URL
 
 *Yayınevi Bilgileri
 
