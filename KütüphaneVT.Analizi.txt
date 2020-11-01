@@ -20,6 +20,7 @@ Hayata geçilecek sistem kendi kitaplığımda bulunan eserlerin  katolog veri t
 
 *Eser Bilgileri
 
+***Eser kayıt no
 ***ISBN
 ***Eser adı
 ***Eserin yazarı
@@ -31,11 +32,13 @@ Hayata geçilecek sistem kendi kitaplığımda bulunan eserlerin  katolog veri t
 
 *Yazar Bilgileri
 
+***Yazar kayıt no
 *** Yazar adı
 ***Yazar soyadı
 
 *Yayınevi Bilgileri
 
+***Yayınevi kayıt no
 ***Yayınevi adı
 ***Yayın tarihi
 
